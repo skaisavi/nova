@@ -10,3 +10,4 @@ coverage
 *.log
 *.tsbuildinfo
 prisma/dev.db
+prisma/prisma/
